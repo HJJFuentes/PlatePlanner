@@ -16,6 +16,3 @@ class Function2Activity : AppCompatActivity() {
 }
 //url = "https://api.spoonacular.com/food/products/search";
 
-//api_key = 1f0036bf631b4c14a9afe9309d33cba0;
-
-//if
