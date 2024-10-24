@@ -14,19 +14,8 @@ class Function2Activity : AppCompatActivity() {
 
     }
 }
-import mysql.connector
+//url = "https://api.spoonacular.com/food/products/search";
 
-connection = mysql.connector.connect(
-    host="localhost"
-    user="root",
-    password="Doritoscr5678",
-    database="ingredients_plateplanner";
-)
+//api_key = 1f0036bf631b4c14a9afe9309d33cba0;
 
-cursor = connection.cursor()
-cursor.execute("SELECT * FROM vegetables;")
-
-for row in cursor.fetchall():
-print(row)
-
-connection.close()
+//if
