@@ -30,4 +30,3 @@ for row in cursor.fetchall():
 print(row)
 
 connection.close()
-
