@@ -10,6 +10,6 @@ class Function5Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_function5)
-
+//        adding comment to check the github collaboration
     }
 }
