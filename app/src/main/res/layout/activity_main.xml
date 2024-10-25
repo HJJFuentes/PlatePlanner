@@ -58,7 +58,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="20dp"
-            android:text="FUNCTION 1" />
+            android:text="Meal Prep" />
 
         <Button
             android:id="@+id/btnFunction2"
