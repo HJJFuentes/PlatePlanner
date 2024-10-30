@@ -2,16 +2,19 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Function2Activity">
+    android:orientation="vertical">
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="This is function 2 Activity and stuff yea lost of stuff goes here...." />
+        android:text="This is Function 2 Activity. Lots of stuff goes here..."
+        android:layout_margin="16dp" />
+
+    <!-- Add other views here as needed -->
+
+
+
 </LinearLayout>
